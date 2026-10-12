@@ -12,4 +12,12 @@ git push -u origin main
 
 git remote add origin https://github.com/lessonbyshafiq/git-commands.git  \
 git branch -M main\
-git push -u origin main
+git push -u origin main\
+
+
+git status
+
+
+
+
+
